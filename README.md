@@ -26,6 +26,6 @@ It fetches live exchange rates from a public API and converts between currencies
    npm run build
 
 ## Deployment
-Deploy on Vercel or Netlify using the Vite preset.
+Deploy on Vercel https://currency-converter-olive-zeta.vercel.app/ 
 Build command: npm run build
 Output folder: dist
